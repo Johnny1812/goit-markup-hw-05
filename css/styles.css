@@ -120,6 +120,7 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   color: #404bbf;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .menu-studio::after {
       position: absolute;
       content: '';
@@ -340,6 +341,7 @@ margin-bottom: 8px;
     justify-content: center;
     gap: 24px;
 }
+
 .team-media-item {
     width: 40px;
     height: 40px;
@@ -368,7 +370,6 @@ margin-bottom: 8px;
     background-color: #404bbf;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-
 }
 
 .team-media-icon {
@@ -522,6 +523,7 @@ max-width: 264px;
   display: flex;
   flex-direction: column;
   gap: 16px;
+  margin-right: 80px;
 }
 
 .foot-media {
@@ -572,3 +574,8 @@ max-width: 264px;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+.foot-sub {
+
+}
+
