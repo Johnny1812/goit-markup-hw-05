@@ -743,7 +743,7 @@ img {
     border-color: #4d5ae5;
 }
 
-.modal-type:focus .modal-icon-list {
+.modal-type:focus + .modal-icon-list {
     fill: #4d5ae5;
 }
 
